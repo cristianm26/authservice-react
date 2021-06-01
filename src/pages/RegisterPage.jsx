@@ -41,7 +41,7 @@ const RegisterPage = () => {
 
 
     return (
-        <div className="container" >
+        <div className="container  animate__animated  animate__zoomIn" >
             <h3>Registro</h3>
             <hr />
             <div className="row container">

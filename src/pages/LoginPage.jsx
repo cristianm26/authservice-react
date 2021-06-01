@@ -34,7 +34,7 @@ const LoginPage = () => {
 
     }
     return (
-        <div className="container" >
+        <div className="container animate__animated  animate__zoomIn" >
             <h3>Iniciar Sesión</h3>
             <hr />
             <div className="row container">
